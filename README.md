@@ -2,7 +2,7 @@
 
 ###################Motivations(Business Questions)##########
 
-Q1: Is there any special pattern of 'busy' season where occupancy rate is significantly higher than usual?
+Q1: Is there any special pattern of 'busy' season where occupancy rate is significantly higher than usual?\n
 Q2: does this 'busy' season pattern different among different areas of the city?
 Q3: Where's the most expensive area?
 
